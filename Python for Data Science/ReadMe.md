@@ -1,5 +1,5 @@
 ### Python for Data Science
-This repository contains all the learning resources for today's session:
+This folder contains all the learning resources for today's session:
 <ol>
   <li>Python Basics</li>
   <li>Numpy</li>
