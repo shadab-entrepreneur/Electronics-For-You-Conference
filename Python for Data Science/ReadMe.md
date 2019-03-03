@@ -1,5 +1,5 @@
 ### Python for Data Science
-This folder contains all the learning resources for today's session:
+This folder contains all the learning resources for <b>Python for Data Session</b> session at <a href="https://www.iotshow.in/training/#python">IOTShow</a> on 27th Feb, 2019:
 <ol>
   <li>Python Basics</li>
   <li>Numpy</li>
